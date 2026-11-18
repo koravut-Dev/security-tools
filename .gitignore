@@ -1,0 +1,7 @@
+# third-party binaries / installers (too large, re-downloadable)
+/bin/
+/_downloads/
+# scan targets (other people's code) and scan output (findings, possible secrets)
+/targets/
+/reports/
+/results/
